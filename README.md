@@ -34,7 +34,7 @@ https://www.github.com/Jwilliams25400
 
 ## Installations:
 to ensure the repo runs open the terminal and run the following: 
-```npm install inquirer```
+```inquirer```
 
 --------------------
 
@@ -47,7 +47,7 @@ to ensure the repo runs open the terminal and run the following:
 --------------------
 
 ## Contribute:
-### feel free to send an email regarding updates which would enhance repo efficient and/or user capabilities
+### Feel free to send an email regarding any updates too the repo which would make it more efficient and/or enhance user capabilities
 --------------------
 
 
@@ -58,4 +58,4 @@ to ensure the repo runs open the terminal and run the following:
 
 ## Questions: 
 ### if you have any question about the repo, contact Github: (https://www.github.com/Jwilliams25400)
-or E-mail: jwilliams25400@yahoo.com
+or E-mail: Jwilliams25400@yahoo.com
