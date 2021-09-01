@@ -1,13 +1,13 @@
 # Team-Profile-Generator
 
-https://www.github.com/jwilliams2500
+https://www.github.com/Jwilliams25400
 
 
 ### [![License](https://img.shields.io/badge/License-MIT-blue.svg)] 
 
 
 ## Description
-### A simple and easy profile generator designed to keep an active log of all managers, engineers, and interns. The repo takes users input information regarding each employee and renders the information on seperate cards in a professional format
+### A simple and easy profile generator designed to keep an active log of all managers, engineers, and interns. The repo request users input information regarding each employee and renders the information on seperate cards in a professional format.
 --------------------
 
 ## Technology
@@ -34,7 +34,7 @@ https://www.github.com/jwilliams2500
 
 ## Installations:
 to ensure the repo runs open the terminal and run the following: 
-```inquirer and jest```
+```npm install inquirer```
 
 --------------------
 
@@ -47,7 +47,7 @@ to ensure the repo runs open the terminal and run the following:
 --------------------
 
 ## Contribute:
-### feel free to send and email an email with any updates regarding better method of collecting and rending information 
+### feel free to send an email regarding updates which would enhance repo efficient and/or user capabilities
 --------------------
 
 
@@ -57,5 +57,5 @@ to ensure the repo runs open the terminal and run the following:
 
 
 ## Questions: 
-### if you have any question about the repo, contact Github: (https://www.github.com/jwilliams2500)
+### if you have any question about the repo, contact Github: (https://www.github.com/Jwilliams25400)
 or E-mail: jwilliams25400@yahoo.com
