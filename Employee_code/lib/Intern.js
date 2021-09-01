@@ -4,7 +4,7 @@
 
    constructor(name, id, email, school) {
      super(name, id, email);
-     this.education = school;
+     this.school = school;
    }
 
    getRole() {

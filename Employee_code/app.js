@@ -11,7 +11,7 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 // Rendering function
 // const render = require("./lib/htmlRenderer");
 // Alternative rendering function
-const render = require("./lib/page-template.js.js");
+const render = require("./lib/page.js");
 
 const teamMembers = [];
 // Create an id array to store the ids.
@@ -76,7 +76,7 @@ function appMenu() {
           answers.managerName,
           answers.managerId,
           answers.managerEmail,
-          answers.managerOfficeNumber,
+          answers.managerOfficeNum,
           answers.managerJobTitle
         );
         // 2. ADD (PUSH) THE ENGINEER VARIABLE TO the teamMembers ARRAY
