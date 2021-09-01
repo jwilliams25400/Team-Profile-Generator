@@ -38,6 +38,11 @@ to ensure the repo runs open the terminal and run the following:
 
 --------------------
 
+## Video Tutorial 
+https://drive.google.com/file/d/16usV-vGQf3DK6n8eisjFpb17K1Dnh28_/view
+
+--------------------
+
 ## Usage:
 ### none 
 --------------------
